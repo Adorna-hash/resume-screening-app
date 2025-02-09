@@ -2,3 +2,5 @@ streamlit
 spacy
 PyPDF2
 scikit-learn
+spacy
+en-core-web-sm
